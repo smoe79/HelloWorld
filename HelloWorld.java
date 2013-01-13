@@ -12,5 +12,12 @@ public class HelloWorld {
       System.out.println("Way hey up he goes and...");
    }
 
+   public static void printHello()
+   {
+      System.out.println("Hey, you! Yes, you!");
+      System.out.println("How can you having any pudding if you don't eat your meat!");
+
+   }
+
 
 }
